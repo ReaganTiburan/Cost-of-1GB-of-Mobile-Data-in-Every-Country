@@ -6,6 +6,6 @@ I have created three types of chart to visualize this dataset
    It shows that majority of the countries has less than $5 dollar per 1GB of mobile data cost.
    As well shows how many countries are Above and Below the calculated mean Cost mobile data.
 ## 2. BarPlot, Summarizes the Top 10 Countries with Highest and Lowes Cost of Mobile data
-## 3. BoxPlot, shows the mean of every continent, it turns out that North America has the 
-      highest mean of, while Asia as the lowest mean.
+## 3. BoxPlot, shows the mean of every continent, it turns out that North America has the highest mean of, while Asia as the lowest mean.
+      
       
